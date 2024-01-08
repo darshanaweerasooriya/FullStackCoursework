@@ -1,6 +1,7 @@
 import React from "react";
 
 function Adminlog(){
+    
 
     return(
         <div style={{ position: 'relative' }}>
