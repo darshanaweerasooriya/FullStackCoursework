@@ -3,6 +3,7 @@ import './App.css';
 import PersonalDetails from './Pages/PersonalDetails';
 import Signin from './Pages/Signin';
 import Addbooks from './Pages/addbooks';
+import Contactus from './Pages/contactus';
 import Feedback from './Pages/feedback';
 import Home from './Pages/home';
 import Userbooks from './Pages/userbooks';
@@ -19,6 +20,7 @@ function App() {
           <Route path='addimage' element={<Addbooks/>}/>
           <Route path="books" element={<Userbooks/>}/>
           <Route path="addbooks" element={<Addbooks/>}/>
+          <Route path="about" element={<Contactus/>}/>
         </Routes>
       </BrowserRouter>
       

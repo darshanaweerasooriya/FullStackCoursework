@@ -1,0 +1,84 @@
+.signin-part1{
+    width:30%;
+    height:100vh;
+    background: #4E55FF;
+    
+}
+
+.signin-happy{
+   position: absolute;
+   top:15%;
+   left:2%;
+}
+
+.sigin-heading1{
+    position: absolute;
+    top:70%;
+    left: 6%;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.sigin-heading2{
+    position: absolute;
+    top:78%;
+    left: 4%;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.sigin-content1{
+    position: relative;
+    top:2vh;
+    left:140vh;
+}
+
+.signin-happy1{
+    position: absolute;
+    top:15%;
+    left:35%;
+ }
+
+ .sigin-heading3{
+    position: relative;
+    top:25vh;
+    left:74vh;
+ }
+ .sigin-heading4{
+    position: relative;
+    top:25vh;
+    left:75vh;
+    color: #333;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+ }
+
+ .username{
+    position: relative;
+    top:25vh;
+    left:74vh;
+
+ }
+ .password{
+    position: relative;
+    top:28vh;
+    left:74vh;
+
+ }
+
+ .slogin{
+    position: absolute;
+    top:85vh;
+    left:95vh;
+ }
