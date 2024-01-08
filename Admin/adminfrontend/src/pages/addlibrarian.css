@@ -1,0 +1,10 @@
+.formlib{
+    background-color: whitesmoke;
+    width: 99%;
+    margin: '0';
+    padding-right: '20px';
+}
+
+.form-control1{
+    width: 50%;
+}

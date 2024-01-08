@@ -1,0 +1,118 @@
+.feedback-container h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 36px;
+    top:-70px;
+    position: relative;
+    
+}
+
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+
+
+.label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    position: relative;
+    top:-20px;
+    
+  }
+.feedback-container {
+    padding: 100px;
+    border: 1px solid rgb(128, 124, 124);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: rgb(176, 171, 171,0.8);
+    text-align: left;
+    top: 5px;
+    position: relative;
+    height: 280px;
+}  
+
+.feedback-emojis button {
+    font-size: 40px;
+    margin-right: 10px; 
+    position: relative;
+    top: -40px;
+}
+
+
+.feedback-emojis button:hover {
+    transform: scale(1.2); 
+}
+.text-wrapper {
+    margin-bottom: 10px;
+}
+  
+  .textbox {
+    padding: 30px;
+    font-size: 20px;
+    width: 300px;
+    height: 100%;
+    margin-bottom: 10px;
+    position: relative;
+  }
+  .button-container {
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 109px; 
+    
+   
+  }
+ .Button1 {
+     background-color: rgb(128, 128, 237);
+     border-radius: 10px;
+     color: white;
+     padding: 10px 20px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     cursor: pointer;
+ }
+.Button1:hover {
+    background-color: #555;
+}
+.Button2 {
+    background-color: rgb(128, 128, 237);
+    border-radius: 10px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  
+}
+
+.Button2:hover {
+    background-color: #555;
+}
+.need-help-button {
+    background-color: #44df56;
+     
+     color: white;
+     padding: 10px 20px;
+     text-align: center;
+     text-decoration: none;
+     font-size: 16px;
+     border-radius: 5px;
+     cursor: pointer;
+     display: inline-block;
+     position:relative;
+     top: 50px;
+     left: -190px;
+   
+  }
+.need-help-button:hover {
+    background-color: #555;
+}

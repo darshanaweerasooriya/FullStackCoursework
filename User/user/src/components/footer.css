@@ -1,0 +1,38 @@
+.footer{
+    position:relative;
+    width: 100%;
+    height:40vh;
+    background-color: black;
+}
+
+.image1{
+    position: relative;
+    left:18%;
+    top:88%;
+}
+
+.footer-heading{
+    position: relative;
+    top:85%;
+    color: white;
+    left:40%;
+}
+
+.footer-para1{
+    position: relative;
+    top:94vh;
+    color:white;
+    left:32%;
+}
+.footer-para2{
+    position: relative;
+    top:98vh;
+    color:white;
+    left:32.55%;
+}
+.footer-para3{
+    position: relative;
+    top:102vh;
+    color:white;
+    left:35%;
+}
